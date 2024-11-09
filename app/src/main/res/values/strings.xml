@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="request_time_out">Reqest timed out.Please try again after sometime.</string>
+    <string name="too_many_requests">Oops, you clicked many times. Try again later.</string>
+    <string name="no_internet">Coudln\'t connect. Please check your internet connections.</string>
+    <string name="unknown">Something went wrong.</string>
+    <string name="serialization_error">Couldn\'t serialize data</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_percent_last24hr">Change last 24h</string>
+</resources>
